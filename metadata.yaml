@@ -1,0 +1,44 @@
+_repo: Jack-Carstairs-of-the-power-house-b-A-tale-of-some-very-young-men-and-a-very-young-industry_73393
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wood, Stanley L.
+    alias: Wood, Stanley Llewellyn
+    birthdate: 1866
+    deathdate: 1928
+    gutenberg_agent_id: '4541'
+    url: http://www.gutenberg.org/2009/agents/4541
+    wikipedia: https://en.wikipedia.org/wiki/Stanley_L._Wood
+creator:
+  author:
+    agent_name: Sandys, Sydney
+    gutenberg_agent_id: '57053'
+    url: http://www.gutenberg.org/2009/agents/57053
+description: ''
+edition_note: 2nd edition.
+gutenberg_issued: '2024-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73393'
+language: en
+pgterms:marc905: 20240411152152sandys
+pgterms:marc906: '1909'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: '  $aLondon :$bMethuen & Co., $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Great Britain -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Electrical engineers -- Fiction'
+- !lcsh 'Power-plants -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'Jack Carstairs of the power house : $b A tale of some very young men and a
+  very young industry'
+url: http://www.gutenberg.org/ebooks/73393
