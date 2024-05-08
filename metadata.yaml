@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '4541'
     url: http://www.gutenberg.org/2009/agents/4541
     wikipedia: https://en.wikipedia.org/wiki/Stanley_L._Wood
+covers:
+- cover_type: archival
+  image_path: 73393-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Sandys, Sydney
     gutenberg_agent_id: '57053'
     url: http://www.gutenberg.org/2009/agents/57053
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73393#Jack-Carstairs-of-the-power-house-b-A-tale-of-some-very-young-men-and-a-very-young-industry
 edition_note: 2nd edition.
 gutenberg_issued: '2024-04-14'
 gutenberg_type: Text
